@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: Grij/linked-blog-starter-md
+  BLOG_REPO: Grij/linked-blog-starter
   PUBLISH_DIR: Enology
 on:
   workflow_dispatch:
